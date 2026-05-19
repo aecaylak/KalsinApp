@@ -83,14 +83,10 @@ Katkılarınızı memnuniyetle karşılıyoruz! Lütfen aşağıdaki adımları 
 
 Kod standartları için `flutter analyze` ve `flutter test` komutlarını çalıştırın.
 
-## 📄 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
 ## 📧 İletişim
 
-- **Geliştirici**: [Cebinekalsin](https://github.com/kullaniciadi)
-- **E‑posta**: ceber@example.com
+- **Geliştirici**: [Ali Emre Çaylak](https://github.com/aecaylak)
+- **E‑posta**: aliemrecaylak@gmail.com
 
 ---
 
